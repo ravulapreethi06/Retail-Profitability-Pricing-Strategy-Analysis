@@ -3,7 +3,7 @@
 
 **Date:** December 12, 2025  
 **Prepared By:** Ravula Preethi  
-**Tools:** SQL (CTEs, Window Functions, Aggregations), Power BI  
+**Tools:** SQL , Power BI  
 
 ---
 
