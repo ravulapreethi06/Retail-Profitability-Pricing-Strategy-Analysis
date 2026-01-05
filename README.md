@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 15-Second Executive Snapshot (HR-Ready)
+## 🚀 15-Second Executive Snapshot 
 **Problem:** Revenue growth ≠ Profit growth. Aggressive discounts and low-margin categories are eroding profit.  
 
 **Impact at a glance:**  
